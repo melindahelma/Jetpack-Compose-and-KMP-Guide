@@ -19,11 +19,12 @@ A beginner-friendly Android learning roadmap app built with **Jetpack Compose** 
 - **Guides**: Step-by-step articles for simplified learning.
 - **Kotlin Multiplatform (KMP)**: Share code across Android, iOS, desktop, and web.
 - **Tips**: Curated resources and practical advice.
+
 - **No Ads, Free Forever**: Smooth, responsive experience with Material Design 3.
 
 ## Demo
 
-Check out the [live demo](https://www.boltuix.com/2025/09/jetpack-compose-and-kmp-guide-free.html).
+[![View Live Demo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyxwAdLbYrq_XlngTsbSznO2vgtzrPQOuGFpRH618P9Z0Popp06BMIp7HTkxLW17PWW2aT3lIM3JWYOTlqk-U1HDiY8WHxOTXjqplD0E3c3bzt8xgvaSwOl7i8HJg0peWRCZGZ_mq-umBpJ_j5_p0jGnaclj42wNtWU0JkqtCjJn8FwWQusmZ6j8agPlw/s320/view-demo-button_592324-17211.png)](https://www.boltuix.com/2025/09/jetpack-compose-and-kmp-guide-free.html)
 
 
 ## Project Structure
