@@ -22,7 +22,7 @@ A beginner-friendly Android learning roadmap app built with **Jetpack Compose** 
 
 - **No Ads, Free Forever**: Smooth, responsive experience with Material Design 3.
 
-## Demo
+## Demo & Source Code
 
 [![View Live Demo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyxwAdLbYrq_XlngTsbSznO2vgtzrPQOuGFpRH618P9Z0Popp06BMIp7HTkxLW17PWW2aT3lIM3JWYOTlqk-U1HDiY8WHxOTXjqplD0E3c3bzt8xgvaSwOl7i8HJg0peWRCZGZ_mq-umBpJ_j5_p0jGnaclj42wNtWU0JkqtCjJn8FwWQusmZ6j8agPlw/s320/view-demo-button_592324-17211.png)](https://www.boltuix.com/2025/09/jetpack-compose-and-kmp-guide-free.html)
 
@@ -57,16 +57,6 @@ Key files:
 - Browse resources by category or search topics.
 - Click cards to access tutorials, samples, or guides.
 - Explore KMP code-sharing examples for multiplatform development.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
 
 ## License
 
