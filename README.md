@@ -52,6 +52,10 @@ Key files:
 - `Platform.kt`: Platform-specific abstractions for KMP.
 - `ResponsiveGridScreen.kt`: Main screen with responsive grid layout.
 
+![Banner](https://github.com/BoltUIX/Jetpack-Compose-and-KMP-Guide/blob/main/screens/02.png)
+![Banner](https://github.com/BoltUIX/Jetpack-Compose-and-KMP-Guide/blob/main/screens/04.png)
+![Banner](https://github.com/BoltUIX/Jetpack-Compose-and-KMP-Guide/blob/main/screens/05.png)
+
 ## Usage
 
 - Browse resources by category or search topics.
