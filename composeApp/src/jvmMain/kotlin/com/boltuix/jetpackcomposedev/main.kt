@@ -6,7 +6,7 @@ import androidx.compose.ui.window.application
 fun main() = application {
     Window(
         onCloseRequest = ::exitApplication,
-        title = "Jetpack Compose and KMP Guide",
+        title = "Learn Compose with BoltUIX",
     ) {
         App()
     }

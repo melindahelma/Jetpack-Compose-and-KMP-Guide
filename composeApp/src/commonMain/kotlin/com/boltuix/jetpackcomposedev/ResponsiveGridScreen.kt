@@ -83,6 +83,7 @@ import jetpackcomposedev.composeapp.generated.resources.Res
 import jetpackcomposedev.composeapp.generated.resources.logo
 import org.jetbrains.compose.resources.painterResource
 import androidx.compose.animation.core.animateFloatAsState
+import androidx.compose.material.icons.filled.Bolt
 import androidx.compose.runtime.key
 
 @OptIn(ExperimentalFoundationApi::class)
@@ -178,7 +179,7 @@ fun ResponsiveGridScreen() {
                                 contentScale = ContentScale.Fit
                             )
                             Text(
-                                text = "Jetpack Compose & KMP Guide",
+                                text = "Learn Compose with BoltUIX",
                                 style = MaterialTheme.typography.headlineMedium.copy(
                                     letterSpacing = 0.1.sp
                                 ),
@@ -252,7 +253,7 @@ fun ResponsiveGridScreen() {
                             contentScale = ContentScale.Fit
                         )
                         Text(
-                            text = "Jetpack Compose & KMP Guide",
+                            text = "Learn Compose with BoltUIX",
                             style = MaterialTheme.typography.headlineMedium.copy(
                                 letterSpacing = 0.1.sp
                             ),
@@ -359,6 +360,8 @@ fun ResponsiveGridScreen() {
                                             "Compose Samples" -> Icons.Rounded.Rocket
                                             "Roadmap" -> Icons.AutoMirrored.Rounded.LibraryBooks
                                             "Quick Guides" -> Icons.Default.ElectricBolt
+                                            "Compose Template" -> Icons.Default.Bolt
+                                            "KMP Template" -> Icons.Default.Bolt
                                             "KMP" -> Icons.AutoMirrored.Rounded.LiveHelp
                                             "Books" -> Icons.AutoMirrored.Rounded.MenuBook
                                             else -> Icons.Rounded.Category

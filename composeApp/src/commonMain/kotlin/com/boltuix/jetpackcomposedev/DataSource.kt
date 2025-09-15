@@ -69,12 +69,25 @@ import jetpackcomposedev.composeapp.generated.resources.badge25
 import jetpackcomposedev.composeapp.generated.resources.badge26
 import jetpackcomposedev.composeapp.generated.resources.badge27
 import jetpackcomposedev.composeapp.generated.resources.bookkotlin
+import jetpackcomposedev.composeapp.generated.resources.compose_basic_00
+import jetpackcomposedev.composeapp.generated.resources.compose_basic_01
+import jetpackcomposedev.composeapp.generated.resources.compose_basic_1
+import jetpackcomposedev.composeapp.generated.resources.compose_basic_2
+import jetpackcomposedev.composeapp.generated.resources.compose_basic_3
+import jetpackcomposedev.composeapp.generated.resources.compose_basic_4
+import jetpackcomposedev.composeapp.generated.resources.compose_basic_5
+import jetpackcomposedev.composeapp.generated.resources.compose_basic_6
+import jetpackcomposedev.composeapp.generated.resources.compose_basic_7
 import jetpackcomposedev.composeapp.generated.resources.composenew
 import jetpackcomposedev.composeapp.generated.resources.jetcaster
 import jetpackcomposedev.composeapp.generated.resources.jetchat
 import jetpackcomposedev.composeapp.generated.resources.jetlagged
 import jetpackcomposedev.composeapp.generated.resources.jetnews
 import jetpackcomposedev.composeapp.generated.resources.jetsnack
+import jetpackcomposedev.composeapp.generated.resources.kmpm01
+import jetpackcomposedev.composeapp.generated.resources.kmpm02
+import jetpackcomposedev.composeapp.generated.resources.kmpm03
+import jetpackcomposedev.composeapp.generated.resources.logo
 import jetpackcomposedev.composeapp.generated.resources.reply
 
 data class GridItem(
@@ -98,6 +111,8 @@ object DataSource {
         "KMP",
         "Books",
         "Tips",
+        "Compose Template",
+        "KMP Template",
     )
 
     val items = listOf(
@@ -301,6 +316,13 @@ object DataSource {
         ),
 
 
+        GridItem(
+            title = "Learn Compose with BoltUIX",
+            desc = "Learn Jetpack Compose and Kotlin Multiplatform (KMP) with this developer-friendly guide.",
+            category = "Compose Samples",
+            url = "https://github.com/android/compose-samples/tree/main/JetNews",
+            imageUrl = Res.drawable.logo
+        ),
         GridItem(
             title = "JetNews",
             desc = "A sample blog post viewer that demonstrates the use of Compose with a typical Material app and real-world architecture.",
@@ -931,6 +953,27 @@ object DataSource {
             url = "https://www.reddit.com/r/JetpackComposeDev/",
             imageUrl = Res.drawable.jetpackcomposedev
         ),
+
+
+        GridItem(
+            title = "Linkedin",
+            desc = "Indie App Developer | UI/UX Kit Creator | AI Model Innovator | Founder @ Boltuix & Tech Consultant.",
+            category = "Tips",
+            url = "https://www.linkedin.com/in/this-is-hari-shankar/",
+        ),
+
+        GridItem(
+            title = "Boltuix",
+            desc = "Learn to build beautiful, responsive apps with Kotlin, Jetpack Compose, Flutter, and AI - guided by experts with 10+ years of experience. Start from scratch or level up your skills with hands-on, beginner-to-advanced courses. Your app development journey starts here!",
+            category = "Tips",
+            url = "https://www.boltuix.com/",
+        ),
+
+
+
+
+
+
         GridItem(
             title = "Compose layout basics",
             desc = "Learn the simple building blocks of Jetpack Compose, like how to arrange UI elements using rows, columns, and boxes. This is a great starting point for beginners to understand how Compose turns ideas into on-screen designs. You'll see how easy it is to create basic screens without complex code.",
@@ -1636,6 +1679,15 @@ object DataSource {
             imageUrl = Res.drawable.flipbook
         ),
         GridItem(
+            title = "Learn Compose with BoltUIX",
+            desc = "Now in Playstore : Learn Jetpack Compose and Kotlin Multiplatform (KMP) with this developer-friendly guide.",
+            category = "Books",
+            url = "https://play.google.com/store/apps/details?id=com.learncompose.boltuix",
+            imageUrl = Res.drawable.logo
+        ),
+
+
+        GridItem(
             title = "Kotlin Multiplatform Wizard",
             desc = "Create your first multiplatform project using the Kotlin Multiplatform wizard for Android, iOS, and Desktop, or use one of the pre-made templates.",
             category = "KMP",
@@ -1654,6 +1706,102 @@ object DataSource {
             url = "https://www.reddit.com/r/JetpackComposeDev/?f=flair_name%3A%22KMP%22&feedViewType=cardView",
             imageUrl = Res.drawable.kmp
         ),
+        GridItem(
+            title = "Jetpack Compose Column Layout",
+            desc = "Use the Column layout to stack UI elements vertically. Learn how alignment and spacing options work to build flexible UIs. ",
+            category = "Compose Template",
+            url = "https://www.youtube.com/embed/23rnQKEJ8Cc?autoplay=0&controls=0&rel=0&showinfo=0&iv_load_policy=3&cc_load_policy=0&cc_lang_pref=en&wmode=transparent&modestbranding=1&disablekb=1&origin=https%3A%2F%2Fboltuix.store&enablejsapi=1&widgetid=1&forigin=https%3A%2F%2Fboltuix.store%2Fblog_compose_basic.php&aoriginsup=1&gporigin=https%3A%2F%2Fboltuix.com%2F&vf=6",
+            imageUrl = Res.drawable.compose_basic_1
+        ),
+
+        GridItem(
+            title = "Compose Boltuix App Template - Jetpack Compose 2025 UI Kit (v3.3)",
+            desc = "[90% OFF] Video Tutorial: Compose Boltuix is a collection of pre-designed, customizable UI components and templates that follow Google’s Material Design guidelines. It helps developers build responsive, visually stunning UIs faster, reducing time-to-market for high-quality Android apps.",
+            category = "Compose Template",
+            url = "https://www.youtube.com/watch?v=NthQG_BCU78",
+            imageUrl = Res.drawable.compose_basic_01
+        ),
+
+        GridItem(
+            title = "Jetpack Compose 2025 UI Kit (v3.3) - Developer Documentation (PDF)",
+            desc = "Developer Documentation (PDF). A complete guide to using the Jetpack Compose 2025 UI Kit effectively.",
+            category = "Compose Template",
+            url = "https://drive.google.com/file/d/1rli60DPuqMbanIIfQfOY9MvQYnBl9-c8/preview",
+            imageUrl = Res.drawable.compose_basic_00
+        ),
+
+
+        GridItem(
+            title = "Master Jetpack Compose Layouts",
+            desc = "Dive deeper into Jetpack Compose and build stunning, responsive layouts. Perfect for beginners and pros alike. Duration: 3 hours.",
+            category = "Compose Template",
+            url = "https://www.boltuix.com/2021/12/column-layout_25.html",
+            imageUrl = Res.drawable.compose_basic_7
+        ),
+
+        GridItem(
+            title = "Jetpack Compose Row Layout",
+            desc = "Arrange UI elements side by side using Row. Adjust spacing and alignment for clean horizontal layouts.",
+            category = "Compose Template",
+            url = "https://www.boltuix.com/2021/12/row-layout_25.html",
+            imageUrl = Res.drawable.compose_basic_2
+        ),
+        GridItem(
+            title = "Jetpack Compose Box Layout",
+            desc = "Learn how to position elements on top of each other with Box. Explore 9 alignment options for precise control. Duration: 1 hour.",
+            category = "Compose Template",
+            url = "https://www.boltuix.com/2021/12/box-layout_25.html",
+            imageUrl = Res.drawable.compose_basic_3
+        ),
+        GridItem(
+            title = "Jetpack Compose LazyColumn",
+            desc = "Efficiently display vertical lists with LazyColumn. Learn how it loads only visible items for performance. Duration: 1.5 hours.",
+            category = "Compose Template",
+            url = "https://www.boltuix.com/2022/02/jetpack-compose-lazycolumn-efficient.html",
+            imageUrl = Res.drawable.compose_basic_4
+        ),
+        GridItem(
+            title = "Jetpack Compose LazyRow",
+            desc = "Create horizontally scrollable lists with LazyRow. Build efficient, dynamic lists with simple customization. Duration: 1.5 hours.",
+            category = "Compose Template",
+            url = "https://www.boltuix.com/2025/01/jetpack-compose-lazyrow-building.html",
+            imageUrl = Res.drawable.compose_basic_5
+        ),
+        GridItem(
+            title = "Jetpack Compose Grid Layout",
+            desc = "Use LazyVerticalGrid to arrange items in rows and columns. Create dynamic and optimized grid-based UIs. Duration: 2 hours.",
+            category = "Compose Template",
+            url = "https://www.boltuix.com/2022/02/jetpack-compose-grid-layout-create.html",
+            imageUrl = Res.drawable.compose_basic_6
+        ),
+
+        GridItem(
+            title = "Kotlin Multiplatform Basics - Shared Code Across Platforms",
+            desc = "Learn how Kotlin Multiplatform enables you to share core logic across Android, iOS, Desktop, and Web while keeping platform-specific flexibility.",
+            category = "KMP Template",
+            url = "https://www.boltuix.com/2025/08/kotlin-multiplatform-2025-one-codebase.html",
+            imageUrl = Res.drawable.kmpm01
+        ),
+
+        GridItem(
+            title = "Launching Our Kotlin Multiplatform UI Kit | Build Cross-Platform Apps Faster with Compose M |2025 UI",
+            desc = "[Launch Offer 90% OFF] Pre-built UI components and templates for Kotlin Multiplatform. Build production-ready apps faster with clean architecture and adaptive layouts.",
+            category = "KMP Template",
+            url = "https://youtu.be/MH_Tzz7u-Fs",
+            imageUrl = Res.drawable.kmpm02
+        ),
+
+        GridItem(
+            title = "Kotlin Multiplatform 2025 UI Kit - Developer Documentation (PDF)",
+            desc = "Developer documentation (PDF) for Kotlin Multiplatform 2025 UI Kit. Covers setup, shared code modules, platform-specific integration, and advanced usage.",
+            category = "KMP Template",
+            url = "https://drive.google.com/file/d/1MtAqEG5gOVfejudreEVlpbyu2ON0lsJB/preview",
+            imageUrl = Res.drawable.kmpm03
+        ),
+
+
+
+
 
         )
 }

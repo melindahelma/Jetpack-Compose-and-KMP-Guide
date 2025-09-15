@@ -44,6 +44,10 @@ fun GridItemCard(item: GridItem, fraction: Float) {
     val imageColor = if (isComposeDev) Color(0xFF58499E) else Color(0xFFfdfcfd)
     val textColor = if (isComposeDev) Color.White else MaterialTheme.colorScheme.onSurface
 
+
+    // 🎯 Condition check
+    val isTemplate = item.category.equals("Compose Template", ignoreCase = true) || item.category.equals("KMP Template", ignoreCase = true)
+
     Card(
         modifier = Modifier
             .fillMaxWidth(fraction)
@@ -79,8 +83,8 @@ fun GridItemCard(item: GridItem, fraction: Float) {
                     modifier = Modifier
                         .fillMaxWidth()
                         .background(imageColor)
-                        .height(250.dp),
-                    contentScale = ContentScale.Inside
+                        .height(if (isTemplate) 180.dp else 250.dp),
+                    contentScale = if (isTemplate) ContentScale.Fit else ContentScale.Inside
                 )
             }
             Text(

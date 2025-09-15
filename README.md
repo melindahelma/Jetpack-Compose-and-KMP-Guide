@@ -1,4 +1,4 @@
-# Jetpack Compose & KMP Guide
+# Jetpack Compose & KMP Guide | Learn Compose with BoltUIX
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.20-blue.svg)](https://kotlinlang.org/)
@@ -52,9 +52,10 @@ Key files:
 - `Platform.kt`: Platform-specific abstractions for KMP.
 - `ResponsiveGridScreen.kt`: Main screen with responsive grid layout.
 
-![Banner](https://github.com/BoltUIX/Jetpack-Compose-and-KMP-Guide/blob/main/screens/02.png)
-![Banner](https://github.com/BoltUIX/Jetpack-Compose-and-KMP-Guide/blob/main/screens/04.png)
-![Banner](https://github.com/BoltUIX/Jetpack-Compose-and-KMP-Guide/blob/main/screens/05.png)
+![Banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB8ROaPKNp5acq6eVFdgRhP9x1dlG2zW-9JyTXKCwloMndWpzBEO77XfuYUApXo2zbU_vEP6nUqHkzrCZ6tbY__zTW1PhZT-lMuGEcn9RQ6Zt9QV5w4MBa8iZo4hWcyDPNF0DYnq5uMhlPGlp-BSp_aymrJlXMpmw8IVA_T3_RdVzBFgnlnqk5Izw2FMQ/s16000/1.png)
+![Banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiQeAjn0_AsZUJY90hbXX1WqkOPo4P7DNJdpvvSQj9pLwbSyu2xgiIYXvVPYDcJJ3nLfiDYF_KseRmuVEQxjXs0aja1Ea96L9bEPXqolFPHa3BFfU9Jg7fkX0J6u6KCpmZs5DTFqtcqSVTf1lChZsERsEkf_nbJsl2vWjrDQ8To0Agp0Lbv-UrlBv08FE/s16000/compose%20(9).png)
+![Banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRTdWhDAbAvcOkvTypvlVUsN-yc6C2byibKC2SKlD995jAxOAXrXe7WgxQTzVPdHOtHny0CV9Jb9TmO-T_K4uifIHPUpMF_x1dp-djZgICnkBAiy7aSkY4ptZbZFK1iCqeyXHa4NCydt6naqydB689oRpzAjx7xkQh7PHUYENiBoDc1Qwa8xXxlS3xZmA/s16000/compose%20(10).png)
+![Banner](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdY3BiqYqK0ewYRoUuBDx_XrAkoDbvaj0Tyy6FEFSSXcp98X4PTEmgWsRUxVP-kZ9FJyJn1ygb0jOWw6_wUZ3U2zRhVSocSRO-CHPEfrpgqANEFQ4_-e1CoqxopyflJiGgCzbfgMJ__FJ8QWfFP-d50uQYyOBU5eBQl8_9vLrTg_xavDrzUkZLVmfNKM/s16000/compose%20(12).png)
 
 ## Usage
 
